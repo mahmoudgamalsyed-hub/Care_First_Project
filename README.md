@@ -289,7 +289,6 @@ CARE-FIRST/
 
 🔗 Presentation link: [Add presentation link]
 
-🔗 Design workspace: [Add Canva link]
 
 ## 🎓 Instructor
 Tamer El Mogazy
